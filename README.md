@@ -1,6 +1,5 @@
 ## This fork removes the possibility to equip taken colors.
 
-[![Our Discord](https://img.shields.io/discord/787008412482797598?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/XEc7PdDTyn)
 # CrowdedMod
 This mod unlocks the possibility for more than 15 player to join in an Among Us lobby.
 
@@ -24,7 +23,7 @@ Works on Among Us Steam version from **v2020.12.9s** to **v2022.3.29**
 *Versions v2.2.0+ theoretically work with Itch, but they weren't tested.
 
 ## Installation
-See: [client installation](https://github.com/CrowdedMods/CrowdedMod/blob/master/docs/ClientInstallation.md)
+See: [client installation](https://github.com/RobinRMC/CrowdedMod/blob/master/docs/ClientInstallation.md)
 
 ## Credits
 - [andry08/100-player-mod](https://github.com/andry08/100-player-mod) - Original author of this plugin (andry08)
