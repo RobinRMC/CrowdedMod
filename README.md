@@ -10,9 +10,10 @@ Works on Among Us Steam version from **v2020.12.9s** to **v2022.3.29**
 > CrowdedMod does **not** work on InnerSloth servers and you **have** to use an [Impostor](https://github.com/Impostor/Impostor) server.
 > ### ALSO
 > Starting with v2.7.0 local game (lan) does **not** work yet. Waiting for BepInEx changes
-## Original versions
+## Versions
 | Mod version   | Game version  | BepInEx | Downloads |
 | ------------- | ------------- | ------- | --------- |
+| v2.7.0-Shelter| v2022.3.29    | [BepInEx x86](https://builds.bepinex.dev/projects/bepinex_be/562/BepInEx_UnityIL2CPP_x86_7a97bdd_6.0.0-be.562.zip) | [GitHub](https://github.com/RobinRMC/CrowdedMod/releases/download/v2.7.0-Shelter/CrowdedMod.dll) |
 | v2.7.0        | v2022.3.29    | [BepInEx x86](https://builds.bepinex.dev/projects/bepinex_be/562/BepInEx_UnityIL2CPP_x86_7a97bdd_6.0.0-be.562.zip) | [GitHub](https://github.com/CrowdedMods/CrowdedMod/releases/download/v2.7.0/CrowdedMod.dll) |
 | v2.6.0        | v2021.5.10s   | [Reactor BepInEx](https://github.com/NuclearPowered/BepInEx/releases/download/6.0.0-reactor.18%2Bstructfix/BepInEx-6.0.0-reactor.18+structfix.zip) | [CurseForge](https://www.curseforge.com/among-us/all-mods/crowdedmod/files/3310911) |
 | v2.5.0        | v2021.4.14s   | [Reactor BepInEx](https://github.com/NuclearPowered/BepInEx/releases/download/6.0.0-reactor.18%2Bstructfix/BepInEx-6.0.0-reactor.18+structfix.zip) | [CurseForge](https://www.curseforge.com/among-us/all-mods/crowdedmod/files/3296325) |
