@@ -10,7 +10,7 @@ Works on Among Us Steam version from **v2020.12.9s** to **v2022.3.29**
 > CrowdedMod does **not** work on InnerSloth servers and you **have** to use an [Impostor](https://github.com/Impostor/Impostor) server.
 > ### ALSO
 > Starting with v2.7.0 local game (lan) does **not** work yet. Waiting for BepInEx changes
-## Versions
+## Original versions
 | Mod version   | Game version  | BepInEx | Downloads |
 | ------------- | ------------- | ------- | --------- |
 | v2.7.0        | v2022.3.29    | [BepInEx x86](https://builds.bepinex.dev/projects/bepinex_be/562/BepInEx_UnityIL2CPP_x86_7a97bdd_6.0.0-be.562.zip) | [GitHub](https://github.com/CrowdedMods/CrowdedMod/releases/download/v2.7.0/CrowdedMod.dll) |
